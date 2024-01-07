@@ -148,7 +148,7 @@ a:active {
     #gallery {
         text-align: center;
         margin: 0 auto;
-        width: 70%;
+        width: 100%;
         display: grid;
         grid-template-columns: 1fr;
         gap: 40px
